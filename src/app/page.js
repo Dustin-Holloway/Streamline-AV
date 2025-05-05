@@ -83,11 +83,11 @@ export default function Home() {
         <div className="max-w-xl px-4 text-center">
           <h3 className="text-3xl font-semibold mb-4">Get In Touch</h3>
           <p className="mb-6 text-gray-700">
-            We'd love to hear from you. Whether you're seeking a partner in
-            people strategy or just want to say hello — reach out!
+            Wed love to hear from you. Whether youre seeking a partner in people
+            strategy or just want to say hello — reach out!
           </p>
           <a
-            href="mailto:streamlineav@outlook.com"
+            href="mailto:dustinhollowaypdx@gmail.com"
             className="inline-block bg-blue-600 text-white px-6 py-3 rounded-full hover:bg-blue-700 transition"
           >
             Contact Us
