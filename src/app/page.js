@@ -45,8 +45,11 @@ export default function Home() {
       </section>
 
       {/* About */}
-      <section id="about" className="py-20 bg-white text-center">
-        <h2 className="text-3xl font-semibold text-blue-600 mb-4">
+      <section
+        id="about"
+        className="h-screen py-20 bg-white text-center justify-center"
+      >
+        <h2 className="text-3xl font-semibold text-blue-600 mb-4 py-5">
           About StreamlineAV
         </h2>
         <p className="text-gray-700 max-w-2xl mx-auto leading-relaxed">
@@ -63,7 +66,10 @@ export default function Home() {
       </section>
 
       {/* Services */}
-      <section id="services" className="py-20 bg-gray-100 text-center">
+      <section
+        id="services"
+        className="h-screen py-20 bg-gray-100 items-center justify-center text-center"
+      >
         <h2 className="text-3xl font-semibold text-blue-600 mb-4">
           Our Services
         </h2>
@@ -80,7 +86,7 @@ export default function Home() {
         id="contact"
         className="h-screen flex items-center justify-center bg-white"
       >
-        <div className="max-w-xl px-4 text-center">
+        <div className="max-w-xl px-4 text-center justify-center">
           <h3 className="text-3xl font-semibold mb-4">Get In Touch</h3>
           <p className="mb-6 text-gray-700">
             Wed love to hear from you. Whether youre seeking a partner in people
