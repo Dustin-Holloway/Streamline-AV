@@ -93,7 +93,7 @@ export default function Home() {
             for your business — let&apos;s connect!
           </p>
           <a
-            href="mailto:dustinhollowaypdx@gmail.com"
+            href="mailto:streamlineav@outlook.com"
             className="inline-block bg-blue-600 text-white px-6 py-3 rounded-full hover:bg-blue-700 transition"
           >
             Contact Us
