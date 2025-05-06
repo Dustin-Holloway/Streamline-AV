@@ -89,9 +89,11 @@ export default function Home() {
         <div className="max-w-xl px-4 text-center justify-center">
           <h3 className="text-3xl font-semibold mb-4">Get In Touch</h3>
           <p className="mb-6 text-gray-700">
-            We’d love to hear from you. Whether you're looking to upgrade your
-            home entertainment system or need a custom AV solution for your
-            business — let’s connect!
+            <p className="mb-6 text-gray-700">
+              We&apos;d love to hear from you. Whether you&apos;re looking to
+              upgrade your home entertainment system or need a custom AV
+              solution for your business — let&apos;s connect!
+            </p>
           </p>
           <a
             href="mailto:dustinhollowaypdx@gmail.com"
